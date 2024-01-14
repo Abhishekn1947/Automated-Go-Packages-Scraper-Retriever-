@@ -1,0 +1,4065 @@
+{
+    "package_name": "Package name not available.",
+    "metadata": [
+        {
+            "version": "v0.6.4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-98-g0f3ebc3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-98-g0f3ebc3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-98-g0f3ebc3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-95-g1f4cb63",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-95-g1f4cb63/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-95-g1f4cb63/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-92-g8f4c405",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-92-g8f4c405/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-92-g8f4c405/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-90-g8ea7051",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-90-g8ea7051/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-90-g8ea7051/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-86-g20225fb",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-86-g20225fb/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-86-g20225fb/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-84-gb14725b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-84-gb14725b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-84-gb14725b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-82-g19055f2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-82-g19055f2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-82-g19055f2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-80-g2fba223",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-80-g2fba223/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-80-g2fba223/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-8-g2915a78",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-8-g2915a78/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-8-g2915a78/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-78-g38a5be2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-78-g38a5be2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-78-g38a5be2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-76-ga101670",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-76-ga101670/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-76-ga101670/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-73-gcf6f075",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-73-gcf6f075/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-73-gcf6f075/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-63-g8b08d25",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-63-g8b08d25/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-63-g8b08d25/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-60-g0bc6d7b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-60-g0bc6d7b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-60-g0bc6d7b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-6-gc6477cc",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-6-gc6477cc/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-6-gc6477cc/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-58-g46ab0b2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-58-g46ab0b2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-58-g46ab0b2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-56-ge3092d8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-56-ge3092d8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-56-ge3092d8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-52-g2208df3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-52-g2208df3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-52-g2208df3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-49-g4ab1b28",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-49-g4ab1b28/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-49-g4ab1b28/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-47-g4a2063b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-47-g4a2063b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-47-g4a2063b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-4-g49155ad",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-4-g49155ad/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-4-g49155ad/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-39-g42d1d32",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-39-g42d1d32/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-39-g42d1d32/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-37-g6947688",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-37-g6947688/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-37-g6947688/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-34-g6ad3aee",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-34-g6ad3aee/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-34-g6ad3aee/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-32-gc5105c9",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-32-gc5105c9/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-32-gc5105c9/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-30-g48f3e0b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-30-g48f3e0b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-30-g48f3e0b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-28-gcecc550",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-28-gcecc550/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-28-gcecc550/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-26-g9f72ab6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-26-g9f72ab6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-26-g9f72ab6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-24-g54d9504",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-24-g54d9504/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-24-g54d9504/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-22-gececfc4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-22-gececfc4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-22-gececfc4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-2-g06a682a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-2-g06a682a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-2-g06a682a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-18-g950da25",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-18-g950da25/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-18-g950da25/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-160-g52a660c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-160-g52a660c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-160-g52a660c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-16-g3f3ded3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-16-g3f3ded3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-16-g3f3ded3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-158-gf3250ef",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-158-gf3250ef/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-158-gf3250ef/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-156-gdf07dec",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-156-gdf07dec/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-156-gdf07dec/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-154-g3fa550d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-154-g3fa550d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-154-g3fa550d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-152-g47775a4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-152-g47775a4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-152-g47775a4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-145-g2484c2e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-145-g2484c2e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-145-g2484c2e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-14-g2b03782",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-14-g2b03782/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-14-g2b03782/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-139-g370f847",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-139-g370f847/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-139-g370f847/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-136-g81b6d37",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-136-g81b6d37/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-136-g81b6d37/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-134-ge1d3bba",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-134-ge1d3bba/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-134-ge1d3bba/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-123-gd42e7e2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-123-gd42e7e2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-123-gd42e7e2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-12-gb0324f3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-12-gb0324f3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-12-gb0324f3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-119-g57e76dd",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-119-g57e76dd/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-119-g57e76dd/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-117-gc0f9040",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-117-gc0f9040/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-117-gc0f9040/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-115-gd8e81e2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-115-gd8e81e2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-115-gd8e81e2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-113-g6e780b4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-113-g6e780b4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-113-g6e780b4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-110-gd04da9b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-110-gd04da9b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-110-gd04da9b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-108-g28b7051",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-108-g28b7051/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-108-g28b7051/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-106-g1398aa6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-106-g1398aa6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-106-g1398aa6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-104-gce6d65a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-104-gce6d65a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-104-gce6d65a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-102-ga3462b7",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-102-ga3462b7/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-102-ga3462b7/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-100-gc6f82ab",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-100-gc6f82ab/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-100-gc6f82ab/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.4-10-g08fba58",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.4-10-g08fba58/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.4-10-g08fba58/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-8-g86258c9",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-8-g86258c9/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-8-g86258c9/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-49-g3fa5591",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-49-g3fa5591/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-49-g3fa5591/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-45-g8ccd437",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-45-g8ccd437/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-45-g8ccd437/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-43-g2c49eb9",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-43-g2c49eb9/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-43-g2c49eb9/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-34-ge577bf1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-34-ge577bf1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-34-ge577bf1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-32-gc998867",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-32-gc998867/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-32-gc998867/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-29-gac878ce",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-29-gac878ce/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-29-gac878ce/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-27-g0d19d35",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-27-g0d19d35/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-27-g0d19d35/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-25-g8f29c19",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-25-g8f29c19/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-25-g8f29c19/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-23-ge4ba00d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-23-ge4ba00d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-23-ge4ba00d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-21-g60fe730",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-21-g60fe730/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-21-g60fe730/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-15-g4a26710",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-15-g4a26710/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-15-g4a26710/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-12-g1d0b056",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-12-g1d0b056/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-12-g1d0b056/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.3-10-g9b2ee6a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.3-10-g9b2ee6a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.3-10-g9b2ee6a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-8-gfb5fb05",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-8-gfb5fb05/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-8-gfb5fb05/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-42-ga7307cd",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-42-ga7307cd/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-42-ga7307cd/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-40-g0136fc0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-40-g0136fc0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-40-g0136fc0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-4-g16b8525",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-4-g16b8525/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-4-g16b8525/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-32-g8bd5eeb",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-32-g8bd5eeb/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-32-g8bd5eeb/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-27-g3f6aa7c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-27-g3f6aa7c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-27-g3f6aa7c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-25-gf24e87f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-25-gf24e87f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-25-gf24e87f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-23-g7cf5a7e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-23-g7cf5a7e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-23-g7cf5a7e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-21-g00cc449",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-21-g00cc449/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-21-g00cc449/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-18-g85ea073",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-18-g85ea073/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-18-g85ea073/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-14-gb8e3cf4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-14-gb8e3cf4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-14-gb8e3cf4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.2-11-g45c447c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.2-11-g45c447c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.2-11-g45c447c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-9-g7b4a3ed",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-9-g7b4a3ed/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-9-g7b4a3ed/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-7-gdffd010",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-7-gdffd010/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-7-gdffd010/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-4-g4af0e59",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-4-g4af0e59/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-4-g4af0e59/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-27-g85a8fde",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-27-g85a8fde/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-27-g85a8fde/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-25-g68daba8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-25-g68daba8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-25-g68daba8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-23-g3248619",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-23-g3248619/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-23-g3248619/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-21-g0843f4e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-21-g0843f4e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-21-g0843f4e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-2-g61f08ed",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-2-g61f08ed/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-2-g61f08ed/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-19-gbc85e0c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-19-gbc85e0c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-19-gbc85e0c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-17-g7328306",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-17-g7328306/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-17-g7328306/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-15-g898bd08",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-15-g898bd08/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-15-g898bd08/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-13-ge649b59",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-13-ge649b59/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-13-ge649b59/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.1-11-gcb7622a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.1-11-gcb7622a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.1-11-gcb7622a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.0-4-gea5f823",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.0-4-gea5f823/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.0-4-gea5f823/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.6.0-2-g2b79b7d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.6.0-2-g2b79b7d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.6.0-2-g2b79b7d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-93-g5b9e673",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-93-g5b9e673/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-93-g5b9e673/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-85-g960b695",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-85-g960b695/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-85-g960b695/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-83-ga960952",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-83-ga960952/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-83-ga960952/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-81-gad32d7b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-81-gad32d7b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-81-gad32d7b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-8-gae187bb",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-8-gae187bb/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-8-gae187bb/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-79-g9a61729",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-79-g9a61729/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-79-g9a61729/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-6-g39e2f5f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-6-g39e2f5f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-6-g39e2f5f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-54-g90e3994",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-54-g90e3994/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-54-g90e3994/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-52-gcea14a3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-52-gcea14a3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-52-gcea14a3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-48-gb51f3f8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-48-gb51f3f8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-48-gb51f3f8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-44-g0372d89",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-44-g0372d89/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-44-g0372d89/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-42-g996c3d0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-42-g996c3d0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-42-g996c3d0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-40-g1d32bc6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-40-g1d32bc6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-40-g1d32bc6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-4-g3cea074",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-4-g3cea074/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-4-g3cea074/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-36-gbc59f4f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-36-gbc59f4f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-36-gbc59f4f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-34-g5694450",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-34-g5694450/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-34-g5694450/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-31-gdaee2b5",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-31-gdaee2b5/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-31-gdaee2b5/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-29-gb6bd959",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-29-gb6bd959/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-29-gb6bd959/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-23-g36c2e37",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-23-g36c2e37/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-23-g36c2e37/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-227-gdb76752",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-227-gdb76752/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-227-gdb76752/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-224-g7523a36",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-224-g7523a36/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-224-g7523a36/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-222-gcb0e6d4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-222-gcb0e6d4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-222-gcb0e6d4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-216-g5ac2088",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-216-g5ac2088/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-216-g5ac2088/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-213-g45a44eb",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-213-g45a44eb/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-213-g45a44eb/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-210-g5431d63",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-210-g5431d63/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-210-g5431d63/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-21-gfc04946",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-21-gfc04946/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-21-gfc04946/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-207-gbd71030",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-207-gbd71030/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-207-gbd71030/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-204-gfcb0f50",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-204-gfcb0f50/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-204-gfcb0f50/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-202-g9cefc2a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-202-g9cefc2a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-202-g9cefc2a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-200-g4f02684",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-200-g4f02684/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-200-g4f02684/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-2-gf64912a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-2-gf64912a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-2-gf64912a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-190-g3625e4a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-190-g3625e4a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-190-g3625e4a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-19-gbba294b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-19-gbba294b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-19-gbba294b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-187-g6bf31d3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-187-g6bf31d3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-187-g6bf31d3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-183-ga89f482",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-183-ga89f482/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-183-ga89f482/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-181-g3d75918",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-181-g3d75918/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-181-g3d75918/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-179-gf0fdb58",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-179-gf0fdb58/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-179-gf0fdb58/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-177-gfef0f26",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-177-gfef0f26/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-177-gfef0f26/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-173-g09d41b2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-173-g09d41b2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-173-g09d41b2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-168-g7e8f0e8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-168-g7e8f0e8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-168-g7e8f0e8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-166-ge8b3629",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-166-ge8b3629/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-166-ge8b3629/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-164-g420942b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-164-g420942b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-164-g420942b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-162-gd0bcfc3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-162-gd0bcfc3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-162-gd0bcfc3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-16-g3eed69f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-16-g3eed69f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-16-g3eed69f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-157-g1d5d486",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-157-g1d5d486/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-157-g1d5d486/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-155-g564c7fe",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-155-g564c7fe/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-155-g564c7fe/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-149-gff387e0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-149-gff387e0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-149-gff387e0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-147-g5e31ad2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-147-g5e31ad2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-147-g5e31ad2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-145-g52e766a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-145-g52e766a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-145-g52e766a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-143-g19b18f0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-143-g19b18f0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-143-g19b18f0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-141-g1ad3542",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-141-g1ad3542/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-141-g1ad3542/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-14-gfb8cf0f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-14-gfb8cf0f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-14-gfb8cf0f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-139-gb0f3fa8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-139-gb0f3fa8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-139-gb0f3fa8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-120-gf546c5e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-120-gf546c5e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-120-gf546c5e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-12-g6ac00af",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-12-g6ac00af/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-12-g6ac00af/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-118-g904578e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-118-g904578e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-118-g904578e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-116-g22ce233",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-116-g22ce233/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-116-g22ce233/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-114-g6bb6b89",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-114-g6bb6b89/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-114-g6bb6b89/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-112-g1b0d4b3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-112-g1b0d4b3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-112-g1b0d4b3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-110-gb771666",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-110-gb771666/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-110-gb771666/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-108-ge4b76b8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-108-ge4b76b8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-108-ge4b76b8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.2-10-g48b9091",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.2-10-g48b9091/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.2-10-g48b9091/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-92-g06bef51",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-92-g06bef51/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-92-g06bef51/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-90-g136abb3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-90-g136abb3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-90-g136abb3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-88-g4d554ed",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-88-g4d554ed/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-88-g4d554ed/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-84-g39f51f2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-84-g39f51f2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-84-g39f51f2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-82-g4f04286",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-82-g4f04286/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-82-g4f04286/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-80-g4e48597",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-80-g4e48597/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-80-g4e48597/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-77-g3936ba4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-77-g3936ba4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-77-g3936ba4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-75-gad722b1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-75-gad722b1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-75-gad722b1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-73-g7f4b8e6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-73-g7f4b8e6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-73-g7f4b8e6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-71-g2609f3a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-71-g2609f3a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-71-g2609f3a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-69-g06b5eb8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-69-g06b5eb8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-69-g06b5eb8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-67-gdedbc5a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-67-gdedbc5a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-67-gdedbc5a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-65-g5853f0b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-65-g5853f0b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-65-g5853f0b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-63-gfb9d7cb",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-63-gfb9d7cb/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-63-gfb9d7cb/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-61-ga2f6bbd",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-61-ga2f6bbd/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-61-ga2f6bbd/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-6-g7bb826a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-6-g7bb826a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-6-g7bb826a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-59-ga387756",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-59-ga387756/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-59-ga387756/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-57-g55dd26c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-57-g55dd26c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-57-g55dd26c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-54-g1485ca4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-54-g1485ca4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-54-g1485ca4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-51-g9de4450",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-51-g9de4450/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-51-g9de4450/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-48-gddb2e08",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-48-gddb2e08/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-48-gddb2e08/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-46-g14a0bb4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-46-g14a0bb4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-46-g14a0bb4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-44-g2aac2b6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-44-g2aac2b6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-44-g2aac2b6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-42-g5777bdc",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-42-g5777bdc/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-42-g5777bdc/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-40-g346bf73",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-40-g346bf73/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-40-g346bf73/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-38-g7237125",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-38-g7237125/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-38-g7237125/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-36-g7b875b0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-36-g7b875b0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-36-g7b875b0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-34-gdbebbd6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-34-gdbebbd6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-34-gdbebbd6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-32-g2804a60",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-32-g2804a60/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-32-g2804a60/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-30-gffe5abd",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-30-gffe5abd/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-30-gffe5abd/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-28-g325b92d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-28-g325b92d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-28-g325b92d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-23-gd8a304d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-23-gd8a304d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-23-gd8a304d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-21-g382aa1e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-21-g382aa1e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-21-g382aa1e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-2-g629042b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-2-g629042b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-2-g629042b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-19-g7ccf18b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-19-g7ccf18b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-19-g7ccf18b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-17-g6de009c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-17-g6de009c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-17-g6de009c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-15-gc602478",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-15-gc602478/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-15-gc602478/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-12-g9f4ff05",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-12-g9f4ff05/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-12-g9f4ff05/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.1-10-g13d4aeb",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.1-10-g13d4aeb/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.1-10-g13d4aeb/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-96-g3b3a302",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-96-g3b3a302/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-96-g3b3a302/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-94-ga5a9aa2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-94-ga5a9aa2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-94-ga5a9aa2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-90-g6a846ba",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-90-g6a846ba/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-90-g6a846ba/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-88-g6cafffa",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-88-g6cafffa/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-88-g6cafffa/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-86-g8fb2ec3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-86-g8fb2ec3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-86-g8fb2ec3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-83-gb58f7cf",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-83-gb58f7cf/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-83-gb58f7cf/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-81-g4b6978c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-81-g4b6978c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-81-g4b6978c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-8-ga43ee71",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-8-ga43ee71/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-8-ga43ee71/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-79-ge68aa34",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-79-ge68aa34/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-79-ge68aa34/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-75-g7bdcf59",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-75-g7bdcf59/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-75-g7bdcf59/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-72-g1ada311",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-72-g1ada311/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-72-g1ada311/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-69-g0c7a04d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-69-g0c7a04d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-69-g0c7a04d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-64-geeb74ad",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-64-geeb74ad/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-64-geeb74ad/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-62-gb750372",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-62-gb750372/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-62-gb750372/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-60-gb3ca05c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-60-gb3ca05c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-60-gb3ca05c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-6-gb78c4e8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-6-gb78c4e8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-6-gb78c4e8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-56-gc5a94de",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-56-gc5a94de/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-56-gc5a94de/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-50-g0927fba",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-50-g0927fba/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-50-g0927fba/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-48-g26044c9",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-48-g26044c9/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-48-g26044c9/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-46-gc1767aa",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-46-gc1767aa/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-46-gc1767aa/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-44-g13fead7",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-44-g13fead7/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-44-g13fead7/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-42-g575ca7b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-42-g575ca7b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-42-g575ca7b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-40-g2e4364f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-40-g2e4364f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-40-g2e4364f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-4-g245cb85",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-4-g245cb85/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-4-g245cb85/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-38-g95cedbc",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-38-g95cedbc/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-38-g95cedbc/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-32-g7628233",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-32-g7628233/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-32-g7628233/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-30-gadf0949",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-30-gadf0949/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-30-gadf0949/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-28-geae82bb",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-28-geae82bb/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-28-geae82bb/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-26-g7939a6e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-26-g7939a6e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-26-g7939a6e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-24-g1b918b1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-24-g1b918b1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-24-g1b918b1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-21-g55536d3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-21-g55536d3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-21-g55536d3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-2-g31f85b8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-2-g31f85b8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-2-g31f85b8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-19-g7dc19d1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-19-g7dc19d1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-19-g7dc19d1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-16-g6ce5882",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-16-g6ce5882/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-16-g6ce5882/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-14-g9e269c4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-14-g9e269c4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-14-g9e269c4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-12-g1678baa",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-12-g1678baa/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-12-g1678baa/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-115-g8d4f1a1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-115-g8d4f1a1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-115-g8d4f1a1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-112-ge4727fd",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-112-ge4727fd/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-112-ge4727fd/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-109-g862e002",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-109-g862e002/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-109-g862e002/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.5.0-10-g7148c38",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.5.0-10-g7148c38/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.5.0-10-g7148c38/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-98-gf5f5c1a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-98-gf5f5c1a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-98-gf5f5c1a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-95-g66e4e9b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-95-g66e4e9b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-95-g66e4e9b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-90-g467c30b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-90-g467c30b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-90-g467c30b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-88-g1897ee8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-88-g1897ee8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-88-g1897ee8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-85-g56b837d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-85-g56b837d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-85-g56b837d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-83-g8d830db",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-83-g8d830db/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-83-g8d830db/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-81-g1e18962",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-81-g1e18962/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-81-g1e18962/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-78-gb3dbf34",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-78-gb3dbf34/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-78-gb3dbf34/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-76-g0f6b145",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-76-g0f6b145/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-76-g0f6b145/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-71-g6252882",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-71-g6252882/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-71-g6252882/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-7-g3cf90e1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-7-g3cf90e1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-7-g3cf90e1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-64-g973e6a3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-64-g973e6a3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-64-g973e6a3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-60-g9a97092",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-60-g9a97092/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-60-g9a97092/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-5-g1a8fea4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-5-g1a8fea4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-5-g1a8fea4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-47-g7fa5500",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-47-g7fa5500/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-47-g7fa5500/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-44-g251881d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-44-g251881d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-44-g251881d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-42-g426f853",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-42-g426f853/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-42-g426f853/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-37-g699fab4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-37-g699fab4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-37-g699fab4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-35-g0413c38",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-35-g0413c38/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-35-g0413c38/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-25-g2f905a5",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-25-g2f905a5/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-25-g2f905a5/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-23-gfde8f5a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-23-gfde8f5a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-23-gfde8f5a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-21-g73f2976",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-21-g73f2976/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-21-g73f2976/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-19-g65adea1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-19-g65adea1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-19-g65adea1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-17-g5c84e62",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-17-g5c84e62/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-17-g5c84e62/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-15-g427747f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-15-g427747f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-15-g427747f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-138-g5e6e356",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-138-g5e6e356/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-138-g5e6e356/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-136-gc3da736",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-136-gc3da736/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-136-gc3da736/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-130-gb67fd7b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-130-gb67fd7b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-130-gb67fd7b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-128-g4702c3a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-128-g4702c3a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-128-g4702c3a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-126-g665b7c7",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-126-g665b7c7/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-126-g665b7c7/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-124-gdb74d0c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-124-gdb74d0c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-124-gdb74d0c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-122-gf67f719",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-122-gf67f719/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-122-gf67f719/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-120-ged18661",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-120-ged18661/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-120-ged18661/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-118-gf224778",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-118-gf224778/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-118-gf224778/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-116-gd0093aa",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-116-gd0093aa/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-116-gd0093aa/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-114-ge5cda14",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-114-ge5cda14/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-114-ge5cda14/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-112-g788cef0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-112-g788cef0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-112-g788cef0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-110-g80ecee8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-110-g80ecee8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-110-g80ecee8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-108-g9486de3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-108-g9486de3/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-108-g9486de3/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-106-g4b3dd30",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-106-g4b3dd30/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-106-g4b3dd30/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-104-g08bba1d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-104-g08bba1d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-104-g08bba1d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-102-gc8888ea",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-102-gc8888ea/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-102-gc8888ea/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.2-100-g4243552",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.2-100-g4243552/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.2-100-g4243552/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-98-g4930a74",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-98-g4930a74/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-98-g4930a74/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-96-g2bed2d6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-96-g2bed2d6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-96-g2bed2d6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-94-gf82e596",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-94-gf82e596/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-94-gf82e596/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-91-gff10fbf",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-91-gff10fbf/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-91-gff10fbf/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-88-g144abcf",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-88-g144abcf/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-88-g144abcf/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-85-ged8c9b4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-85-ged8c9b4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-85-ged8c9b4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-83-g260b493",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-83-g260b493/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-83-g260b493/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-8-gea1a237",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-8-gea1a237/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-8-gea1a237/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-79-gee71887",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-79-gee71887/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-79-gee71887/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-77-gfefd298",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-77-gfefd298/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-77-gfefd298/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-75-g4c3047f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-75-g4c3047f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-75-g4c3047f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-73-g22cdef1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-73-g22cdef1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-73-g22cdef1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-71-g4e5667f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-71-g4e5667f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-71-g4e5667f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-67-g91e8478",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-67-g91e8478/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-67-g91e8478/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-6-g862514a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-6-g862514a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-6-g862514a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-50-gee1d45b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-50-gee1d45b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-50-gee1d45b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-48-gb1e3c6a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-48-gb1e3c6a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-48-gb1e3c6a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-4-gaaf7fad",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-4-gaaf7fad/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-4-gaaf7fad/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-20-g307ed78",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-20-g307ed78/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-20-g307ed78/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-2-gfbbac34",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-2-gfbbac34/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-2-gfbbac34/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-18-gf2b10fc",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-18-gf2b10fc/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-18-gf2b10fc/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-16-g8b8e6c2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-16-g8b8e6c2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-16-g8b8e6c2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-14-gebbadcb",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-14-gebbadcb/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-14-gebbadcb/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-138-g8bb771e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-138-g8bb771e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-138-g8bb771e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-135-gbc739d6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-135-gbc739d6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-135-gbc739d6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-131-g2b8a5f2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-131-g2b8a5f2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-131-g2b8a5f2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-125-g05cf110",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-125-g05cf110/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-125-g05cf110/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-123-g72098c5",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-123-g72098c5/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-123-g72098c5/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-121-g15f7e9a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-121-g15f7e9a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-121-g15f7e9a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-12-g6043bcd",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-12-g6043bcd/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-12-g6043bcd/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-119-ge95ea0d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-119-ge95ea0d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-119-ge95ea0d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-117-g39fdf8e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-117-g39fdf8e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-117-g39fdf8e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-100-g44fbd19",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-100-g44fbd19/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-100-g44fbd19/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.1-10-g9b2664e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.1-10-g9b2664e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.1-10-g9b2664e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.0-8-ga9ab5e0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.0-8-ga9ab5e0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.0-8-ga9ab5e0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.0-23-ga619a67",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.0-23-ga619a67/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.0-23-ga619a67/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.0-21-g48405b1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.0-21-g48405b1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.0-21-g48405b1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.0-2-g41c15a4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.0-2-g41c15a4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.0-2-g41c15a4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.0-19-g231f0f5",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.0-19-g231f0f5/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.0-19-g231f0f5/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.0-182-g73f2976",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.0-182-g73f2976/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.0-182-g73f2976/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.4.0-15-gce14d2c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.4.0-15-gce14d2c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.4.0-15-gce14d2c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-92-gd7ea36d",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-92-gd7ea36d/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-92-gd7ea36d/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-89-g881908f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-89-g881908f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-89-g881908f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-82-gcd852a2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-82-gcd852a2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-82-gcd852a2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-80-gbe86674",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-80-gbe86674/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-80-gbe86674/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-8-ga2953a9",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-8-ga2953a9/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-8-ga2953a9/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-74-g9aeb4fe",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-74-g9aeb4fe/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-74-g9aeb4fe/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-69-g0351854",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-69-g0351854/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-69-g0351854/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-64-gdf09259",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-64-gdf09259/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-64-gdf09259/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-62-g0a716c7",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-62-g0a716c7/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-62-g0a716c7/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-6-ge91c42e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-6-ge91c42e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-6-ge91c42e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-21-gf283c75",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-21-gf283c75/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-21-gf283c75/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-2-g1576422",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-2-g1576422/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-2-g1576422/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-17-g4ff5271",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-17-g4ff5271/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-17-g4ff5271/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-13-g396da65",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-13-g396da65/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-13-g396da65/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-110-gc0f88e1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-110-gc0f88e1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-110-gc0f88e1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.3.0-11-g598ead8",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.3.0-11-g598ead8/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.3.0-11-g598ead8/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.2-2-g52bb9ff",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.2-2-g52bb9ff/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.2-2-g52bb9ff/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.2-18-g3195c1f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.2-18-g3195c1f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.2-18-g3195c1f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.2-15-g0101df6",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.2-15-g0101df6/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.2-15-g0101df6/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.1-7-gfe9f67e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.1-7-gfe9f67e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.1-7-gfe9f67e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.1-4-g81b0d2b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.1-4-g81b0d2b/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.1-4-g81b0d2b/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.1-2-g5dc37d7",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.1-2-g5dc37d7/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.1-2-g5dc37d7/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.0/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.0/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.0-4-g5f38532",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.0-4-g5f38532/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.0-4-g5f38532/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.2.0-2-g16f8466",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.2.0-2-g16f8466/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.2.0-2-g16f8466/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.1/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.1/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.1-20-g2e1ad5f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.1-20-g2e1ad5f/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.1-20-g2e1ad5f/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.1-2-ga0ebd91",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.1-2-ga0ebd91/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.1-2-ga0ebd91/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.1-18-gd4c3523",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.1-18-gd4c3523/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.1-18-gd4c3523/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.1-16-ged26bc4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.1-16-ged26bc4/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.1-16-ged26bc4/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.1-108-g1a4e47a",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.1-108-g1a4e47a/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.1-108-g1a4e47a/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.1-107-gb86867c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.1-107-gb86867c/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.1-107-gb86867c/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.0",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.1.0-8-g32fba99",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-8-g32fba99/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-8-g32fba99/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.1.0-6-gb529133",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-6-gb529133/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-6-gb529133/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.1.0-4-g7f492ea",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-4-g7f492ea/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-4-g7f492ea/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.1.0-24-ga60fd7e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-24-ga60fd7e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-24-ga60fd7e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.0-2-g6653373",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-2-g6653373/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-2-g6653373/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.1.0-18-g5afcef2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-18-g5afcef2/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-18-g5afcef2/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.0-16-gc5cd99e",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-16-gc5cd99e/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-16-gc5cd99e/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.0-14-gc7c31ee",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-14-gc7c31ee/go.mod",
+            "redistributable_license": true,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-14-gc7c31ee/unikraft/arch",
+            "package_license": "BSD-3-Clause"
+        },
+        {
+            "version": "v0.1.0-12-g367b801",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-12-g367b801/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-12-g367b801/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.1.0-10-g33409e3",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.1.0-10-g33409e3/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.1.0-10-g33409e3/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-551-gf22d740",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-551-gf22d740/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-551-gf22d740/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-545-g8322f08",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-545-g8322f08/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-545-g8322f08/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-534-g53efd9f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-534-g53efd9f/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-534-g53efd9f/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-438-g977c4a5",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-438-g977c4a5/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-438-g977c4a5/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-434-g45dfe19",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-434-g45dfe19/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-434-g45dfe19/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-383-gca5649c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-383-gca5649c/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-383-gca5649c/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-381-g04ad0c1",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-381-g04ad0c1/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-381-g04ad0c1/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-378-gf438262",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-378-gf438262/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-378-gf438262/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-374-g231f244",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-374-g231f244/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-374-g231f244/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-370-g4354d13",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-370-g4354d13/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-370-g4354d13/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-369-gb8eb19f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-369-gb8eb19f/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-369-gb8eb19f/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-368-g735acd4",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-368-g735acd4/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-368-g735acd4/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-364-g2355fc5",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-364-g2355fc5/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-364-g2355fc5/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-360-gccc5d91",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-360-gccc5d91/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-360-gccc5d91/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-359-g9561b4f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-359-g9561b4f/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-359-g9561b4f/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-358-g7d84a3f",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-358-g7d84a3f/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-358-g7d84a3f/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-356-g8497a51",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-356-g8497a51/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-356-g8497a51/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-354-g13e54b2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-354-g13e54b2/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-354-g13e54b2/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-326-g50abe87",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-326-g50abe87/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-326-g50abe87/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-325-g5d2e73b",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-325-g5d2e73b/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-325-g5d2e73b/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-324-g10e7b50",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-324-g10e7b50/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-324-g10e7b50/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-322-g47f6b3c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-322-g47f6b3c/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-322-g47f6b3c/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-321-gf82b914",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-321-gf82b914/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-321-gf82b914/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-316-g50264f2",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-316-g50264f2/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-316-g50264f2/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-313-gbcf5615",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-313-gbcf5615/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-313-gbcf5615/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-311-gfd64e7c",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-311-gfd64e7c/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-311-gfd64e7c/unikraft/arch",
+            "package_license": "License: N/A"
+        },
+        {
+            "version": "v0.0.0-310-gb163414",
+            "license": "License information not available.",
+            "details": "https://github.com/unikraft/kraftkit/tree/v0.0.0-310-gb163414/go.mod",
+            "redistributable_license": false,
+            "tagged_version": true,
+            "stable_version": false,
+            "package_url": "https://pkg.go.dev/kraftkit.sh@v0.0.0-310-gb163414/unikraft/arch",
+            "package_license": "License: N/A"
+        }
+    ]
+}
